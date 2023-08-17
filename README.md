@@ -46,4 +46,3 @@ If you have any questions, suggestions, or want to collaborate on an interesting
   
 ## Have a great day ahead! 🚀
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emrivero&theme=dracula)
